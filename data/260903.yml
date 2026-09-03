@@ -1,11 +1,13 @@
 about:
-  description: Inspect messages in a Kafka topic in a simple and deliberate manner
+  description:
+  |
+    Inspect messages in a Kafka topic in a simple and deliberate manner
   license: MIT
   homepage: https://tools.dhruvs.space/kplay
   head: ab3c2a7
   archived: false
   latestVersion: v3.1.0
-  collectedAt: 2026-09-03T05:14:36Z
+  collectedAt: 2026-09-03T22:37:13Z
 timeline:
   created: 2024-03-03
   lastCommit: 2026-06-09
@@ -21,7 +23,7 @@ popularity:
 language:
   Go: 130786
   Gleam: 23360
-totalLine: 154146
+totalBytes: 154146
 recent:
   last30d:
     since: 2026-08-04
