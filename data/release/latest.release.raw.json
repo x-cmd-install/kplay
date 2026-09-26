@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 390,
       "digest": "sha256:32689850bf65cd4b21881a0119eda11dcebf661ebc8f943650cd54688445f25a",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2025-09-26T10:28:01Z",
       "updated_at": "2025-09-26T10:28:01Z",
       "browser_download_url": "https://github.com/dhth/kplay/releases/download/v3.1.0/kplay_3.1.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3080,
       "digest": "sha256:bf5cd0409c8468654784187a4d5afda69ee23ba4d4688315a4f939dee02c6c6d",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2025-09-26T10:28:01Z",
       "updated_at": "2025-09-26T10:28:01Z",
       "browser_download_url": "https://github.com/dhth/kplay/releases/download/v3.1.0/kplay_3.1.0_checksums.txt.pem"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:197930acdf422868a60547e1e53a9c7d4f3bb7e9bd87d0dc7d9ead45109dc943",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2025-09-26T10:28:01Z",
       "updated_at": "2025-09-26T10:28:01Z",
       "browser_download_url": "https://github.com/dhth/kplay/releases/download/v3.1.0/kplay_3.1.0_checksums.txt.sig"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6609947,
       "digest": "sha256:40b750f1dd2ebbfc887505e4394ee29e594488fb607c48c1910e2cddb79c4f11",
-      "download_count": 219,
+      "download_count": 221,
       "created_at": "2025-09-26T10:28:00Z",
       "updated_at": "2025-09-26T10:28:01Z",
       "browser_download_url": "https://github.com/dhth/kplay/releases/download/v3.1.0/kplay_3.1.0_linux_amd64.tar.gz"
