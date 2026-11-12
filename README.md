@@ -33,7 +33,7 @@ Total: **10,950** lines of code across **73** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.1.0` (2025-09-26)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-11
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **10,950** lines of code across **73** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 112 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 157
+- **Releases**: 6 · **Merged PRs**: 113 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 158
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-12 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-13 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-15 | 0 | 9 | 0 | 1 | 0 | 12 |
-| 360d | 2025-11-16 | 0 | 33 | 0 | 1 | 0 | 36 |
-| last720d | 2024-11-21 | 5 | 112 | 1 | 2 | 0 | 142 |
+| 30d | 2026-10-13 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-13 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-14 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-16 | 0 | 10 | 0 | 1 | 0 | 13 |
+| 360d | 2025-11-17 | 0 | 34 | 0 | 1 | 0 | 37 |
+| last720d | 2024-11-22 | 5 | 113 | 1 | 2 | 0 | 143 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for kplay lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:45:23Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:29:16Z._
